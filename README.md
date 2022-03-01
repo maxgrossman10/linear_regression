@@ -1,7 +1,6 @@
 ### linear_regression
  Learning Numpy & Matplotlib using linear regression
 
-## NumPy Basics 
 
 # Arrays
 * An array is a grid of values that contains info about raw data. 
@@ -16,16 +15,23 @@
 * Matrix: Array in 2-D
 * Tensor: Array in 3-D+
 
+## Create Array 
+1. Nested arrays
+2. Arrays with zeros
+3. Arrays with ones
+4. Ascending arrays
+5. Ascending array with step size 
+6. Ascending array with number of steps
 
 
+## Sorting Elements
+1. Sorting arrays in ascending order
+2. Concatenating an array
 
 
-
-
-
-
-
-
+## Shape and Size
+1. Number of dimensions
+2. Number of elements along each dimension
 
 
 
