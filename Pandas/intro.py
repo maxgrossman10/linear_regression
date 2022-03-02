@@ -52,3 +52,12 @@ print(df)
 print(df.loc[0])
 
 # %%
+import pandas as pd
+
+data = {"Wood lbs":[5000,4900,5050,5100],"House ft":[2000,1900,2100,2200]}
+
+df = pd.DataFrame(data, index = ["house1","house2","house3","house4"])
+
+print(df)
+
+

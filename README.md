@@ -29,14 +29,19 @@
 
 
 # PANDAS
+1. Intro - Series and DataFrames
+2. Import CSV - Importing a csv into python
+3. Import to SQL - Importing a table into SQL using python 
 
-
-
-
+#Matplotlib
 
 
 ## Appendix
 
-* [NumPy User Guide] https://numpy.org/doc/stable/user/whatisnumpy.html
-* [Pandas User Guide] https://pandas.pydata.org/docs/getting_started/intro_tutorials/02_read_write.html
-* [Markdown Cheat Sheet] https://www.markdownguide.org/cheat-sheet/
+* [NumPy User Guide]: https://numpy.org/doc/stable/user/whatisnumpy.html
+
+* [Pandas User Guides]: https://www.w3schools.com/python/pandas/pandas_dataframes.asp
+
+* [Markdown Cheat Sheet]: https://www.markdownguide.org/cheat-sheet/
+
+*[SQLAchemy]:https://docs.sqlalchemy.org/en/14/core/engines.html
