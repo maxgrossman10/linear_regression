@@ -1,19 +1,7 @@
 ### linear_regression
- Learning Numpy & Matplotlib using linear regression
+ Learning Numpy, Pandas, and Matplotlib with linear regression
 
-
-# Arrays
-* An array is a grid of values that contains info about raw data. 
-* Array items are the same type and size. Example: [1,2,3] and [4,5,6], not 
-[4,5,6,7]
-
-* Array Rank:
-* Array Shape:
-* ndarray = "N-dimensional array"
-
-* Vector: An array in 1-D
-* Matrix: Array in 2-D
-* Tensor: Array in 3-D+
+# NUMPY
 
 ## Create Array 
 1. Nested arrays
@@ -29,13 +17,26 @@
 2. Concatenating an array
 
 
-## Shape and Size
+## Shape
 1. Number of dimensions
 2. Number of elements along each dimension
+3. Number of array elements
+4. Reshaping an array
+
+
+## Indexing and Slicing
+1. Retrieving segments of data
+
+
+# PANDAS
+
+
+
 
 
 
 ## Appendix
 
-[NumPy Entire User Guide] https://numpy.org/doc/stable/user/whatisnumpy.html
-[Markdown Cheat Sheet] https://www.markdownguide.org/cheat-sheet/
+* [NumPy User Guide] https://numpy.org/doc/stable/user/whatisnumpy.html
+* [Pandas User Guide] https://pandas.pydata.org/docs/getting_started/intro_tutorials/02_read_write.html
+* [Markdown Cheat Sheet] https://www.markdownguide.org/cheat-sheet/
